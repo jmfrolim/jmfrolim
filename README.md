@@ -5,9 +5,9 @@
 - 🤔 I’m looking for help with golang, cloud compute, clean code, automatized tests
 
 
-[![João](https://github-readme-stats.vercel.app/api?username=jmfrolim&show_icons=true&count_private=true
-)](https://github.com/jmfrolim/github-readme-stats)
-
+<a  href="https://github.com/jmfrolim">
+<img  height="180em"  src="https://github-readme-stats.vercel.app/api?username=jmfrolim&count_private=true&theme=dracula&show_icons=true" />
+</a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jmfrolim)](https://github.com/jmfrolim/github-readme-stats)
 
