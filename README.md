@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Advpl, TL++ and ERP Protheus TOTVS, and PHP and C# .net
+- 🔭 I’m currently working with Advpl, TL++ and ERP Protheus TOTVS, and PHP and C# .net
 - 🌱 I’m currently learning golang , docker and cloud computing
 - 🤔 I’m looking for help with golang, cloud compute, clean code, automatized tests
 
