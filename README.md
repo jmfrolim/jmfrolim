@@ -1,8 +1,11 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working with Advpl, TL++ and ERP Protheus TOTVS, and PHP and C# .net
-- 🌱 I’m currently learning golang , docker and cloud computing
+- 🌱 I’m currently learning docker and cloud computing
 - 🤔 I’m looking for help with golang, cloud compute, clean code, automatized tests
+
+#### Now 2024 I'm learning more programming languages
+ - in january I'm learning Ruby on Rails
 
 </br>
 
