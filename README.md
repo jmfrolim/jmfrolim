@@ -5,7 +5,8 @@
 - 🤔 I'm looking for tips with linux container like ***docker***  or ***podman*** and cloud computing, clean code, automated testing
 
 #### Now 2024 I'm learning more programming languages:
- - in january and february I'm learning Ruby on Rails
+ - In january and february I'm learning Ruby on Rails
+ - In March until May I'm back to .NET for .NET 8 for update knowledge and job projects
 
 </br>
 
