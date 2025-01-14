@@ -8,7 +8,7 @@
  - In january and february I'm learning Ruby on Rails
  - In March until May I'm back to .NET for .NET 8 for update knowledge and job projects
 
-#### Now 2025 I'm learning/programing more programming languages:
+#### Now 2025 I'm learning/programing in languages:
  - In january programing in ***C# 13*** and ***.NET 9*** and ***PHP 8.4***
  - In progress
  - In progress
