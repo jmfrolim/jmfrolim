@@ -14,8 +14,7 @@
  - In progress
  - In progress
 
-</br>
-#### I start a blog for my notes and opnions
+#### I'm starting a blog for my notes and opinions.
   - https://blog.joaomanoel.net.br/
 </br>
 
