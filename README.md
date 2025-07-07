@@ -16,7 +16,6 @@
 
 #### I'm starting a blog for my notes and opinions.
   - https://blog.joaomanoel.net.br/
-</br>
 
 <a  href="https://github.com/jmfrolim">
   <img  height="180em"  src="https://github-readme-stats.vercel.app/api?username=jmfrolim&count_private=true&theme=dracula&show_icons=true" />
