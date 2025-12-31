@@ -33,6 +33,6 @@
 
 ## 📊 GitHub Stats
 
-[![João's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=jmfrolim&show_icons=true&theme=dracula)](https://github.com/pranesh-2005/github-readme-stats-fast)
+[![João's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=jmfrolim&show_icons=true)](https://github.com/pranesh-2005/github-readme-stats-fast)
 
-[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=jmfrolim&layout=compact&theme=dracula)](https://github.com/pranesh-2005/github-readme-stats-fast)
+[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=jmfrolim&layout=compact)](https://github.com/pranesh-2005/github-readme-stats-fast)
